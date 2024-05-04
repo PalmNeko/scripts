@@ -1,4 +1,8 @@
 #!/bin/python3
+# update - uncomment bellow and run with shell script or `git pull` if this file is included repository:
+# NEW_FILE_DATA="$(curl -fsSL https://raw.githubusercontent.com/PalmNeko/scripts/main/python/expand_include.py)"
+# echo "$NEW_FILE_DATA" > $0
+# exit
 import os
 import sys
 import re
